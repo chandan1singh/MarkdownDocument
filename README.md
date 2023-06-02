@@ -34,6 +34,7 @@
         <li>
             Laptop
         </li>
+        <img width="180" alt="laptop" src="https://github.com/chandan1singh/MarkdownDocument/assets/106584062/af440a8e-263f-44bb-b514-86078ea5fb77">
         <li>
             Vs Code
         </li>
